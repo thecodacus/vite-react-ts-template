@@ -1,12 +1,12 @@
 .gitignore
-.git
+.git/*
 eslint.config.js 
-.md
-.DS_Store
-.svg
-.jpg
-.png
-.jpeg
+*.md
+.DS_Store/*
+**/*.svg
+**/*.jpg
+**/*.png
+**/*.jpeg
 
 public/*
 src/assets/*
