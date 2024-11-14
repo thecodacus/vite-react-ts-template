@@ -1,0 +1,8 @@
+.gitignore
+.git
+eslint.config.js 
+.md
+.DS_Store
+
+public/*
+src/assets/*
